@@ -1,3 +1,5 @@
+# Longest Collatz sequence : Which starting number, under one million, produces the longest chain?
+
 greatest = 0
 for j in range(1,1000001):
     count = 0
